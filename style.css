@@ -1,0 +1,73 @@
+body {
+    color: white;
+    background-color: grey;
+    width: 80%;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    position: relative;
+    top: 100px;
+    left: 20px;
+}
+p {
+    display: block;
+    color: yellow;
+    background-color: #4e5256;
+    padding: 20px;
+    border-radius: 20px;
+    height: 100px;
+}
+h1, h2, h3 {
+    text-align: center;
+    color: white;
+    padding: 15px 0px 15px 0px;
+    font-size: 30px;
+    background-color: #303235;
+    border-radius: 10px;
+    display: table;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+h1 {
+    font-size: 50px;
+}
+footer a {
+    background: yellow;
+    padding: 10px 50px 10px 50px;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
+div.requirements h3 {
+    color: orange;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 200px;
+}
+.wrapper {
+    background: white;
+    padding-bottom: 50px;
+}
+.design-archives a {color:black;}
+section.intro {
+    color: purple;
+}
+#design-selection {
+    background: black;
+    padding-bottom: 20px;
+}
+
+#zen-intro {
+    background: black;
+}
+
+#zen-summary {
+    padding: 50px;
+    border-radius: 20px;
+    background: white;
+}
+#zen-preamble {
+    margin: 200px;
+    padding-bottom: 50px;
+}
